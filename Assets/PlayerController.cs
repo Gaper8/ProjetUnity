@@ -38,13 +38,22 @@ public class PlayerController : MonoBehaviour
 
         GetComponent<Rigidbody>().linearVelocity = CurrentSpeed;
 
-        if (Input.GetKeyDown(KeyCode.Space) && _objectsUnderPlayer > 0)
+        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
         {
             CurrentSpeed.y += JumpHeight;
         }
 
         GetComponent<Rigidbody>().linearVelocity = CurrentSpeed;
     }
+
+    bool IsGrounded()
+    {
+        float raycastDistance = 0.2f;
+        Vector3 origin = transform.position + Vector3.up * 0.1f;
+
+        return Physics.Raycast(origin, Vector3.down, raycastDistance);
+    }
+
 
     public void TakeDamage(int damage)
     {
@@ -83,9 +92,11 @@ public void Jump()
     private void OnTriggerEnter(Collider other)
     {
         _objectsUnderPlayer++;
+        Debug.Log("Touché le sol, objets sous le joueur : " + _objectsUnderPlayer);
     }
     private void OnTriggerExit(Collider other)
     {
         _objectsUnderPlayer--;
+        Debug.Log("Sorti du contact, objets sous le joueur : " + _objectsUnderPlayer);
     }
 }
