@@ -10,6 +10,7 @@ Vous incarnez un rouleau de papier toilette avec lequel vous devez :
 - Récupérer des ballons pour ouvrir des portes et progresser.
 - Combattre sur certaines platformes des ennemis qui apparaissent.
 - Survivre en évitant les pièges et en gérant sa barre de vie sous peine de devoir respawn.
+- arriver jusqu'a la ligne d'arriver(représenté par une porte)
 
 ---
 
@@ -19,7 +20,7 @@ Vous incarnez un rouleau de papier toilette avec lequel vous devez :
 ✅ Système de Checkpoints et Respawn  
 ✅ Barre de vie dynamique
 ✅ Système de tir de projectiles  
-✅ Ennemis intelligents utilisant un **NavMeshAgent**  
+✅ Ennemis intelligents utilisant un **NavMeshAgent**
 
 ---
 
