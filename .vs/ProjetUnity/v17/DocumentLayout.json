@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\ProjetUnity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|c:\\users\\gabri\\projetunity\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\gestionball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\gestionball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\platformmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\platformmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\canspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\canspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|c:\\users\\gabri\\projetunity\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\throwblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\throwblade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\destroyitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\destroyitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|C:\\Users\\gabri\\ProjetUnity\\assets\\candestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0BB09A-85DC-E263-6DEF-9C3FE2F766FA}|Assembly-CSharp.csproj|solutionrelative:assets\\candestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:19:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionBall.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\GestionBall.cs",
+              "RelativeDocumentMoniker": "Assets\\GestionBall.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\GestionBall.cs",
+              "RelativeToolTip": "Assets\\GestionBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:41:59.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Ball.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\Ball.cs",
+              "RelativeToolTip": "Assets\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:40:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KillZone.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\KillZone.cs",
+              "RelativeDocumentMoniker": "Assets\\KillZone.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\KillZone.cs",
+              "RelativeToolTip": "Assets\\KillZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:09:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformMove.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\PlatformMove.cs",
+              "RelativeDocumentMoniker": "Assets\\PlatformMove.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\PlatformMove.cs",
+              "RelativeToolTip": "Assets\\PlatformMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:56:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Finish.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\Finish.cs",
+              "RelativeToolTip": "Assets\\Finish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:12:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\CheckPoint.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:10:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CanSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\CanSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\CanSpawn.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\CanSpawn.cs",
+              "RelativeToolTip": "Assets\\CanSpawn.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:51:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CanDestroy.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\CanDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\CanDestroy.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\CanDestroy.cs",
+              "RelativeToolTip": "Assets\\CanDestroy.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:26:33.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DestroyItems.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\DestroyItems.cs",
+              "RelativeDocumentMoniker": "Assets\\DestroyItems.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\DestroyItems.cs",
+              "RelativeToolTip": "Assets\\DestroyItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:36:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThrowBlade.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\ThrowBlade.cs",
+              "RelativeDocumentMoniker": "Assets\\ThrowBlade.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\ThrowBlade.cs",
+              "RelativeToolTip": "Assets\\ThrowBlade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:27:57.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ProjetUnity\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\gabri\\ProjetUnity\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:44:19.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
