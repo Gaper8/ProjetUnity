@@ -29,3 +29,9 @@ Vous incarnez un rouleau de papier toilette avec lequel vous devez :
 - z,q,s,d ou w,a,s,d pour se deplacer
 - espace pour sauter
 - bouger la souris
+
+## 🎮 **Comment Jouer**
+- Clonez le répot
+- Quand mon ProjetUnity est ouvert allez dans la map de demo de Town
+- Réduisez les fenêtres à gauche à droite et en bas pour une meilleure expérience de jeu.
+- Lancez le jeu.
